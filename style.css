@@ -1,0 +1,46 @@
+.fundo{
+    position: absolute;
+    height: 200px;
+    width: 1000px;
+    margin: 0px 150px;
+}
+.foto{
+    position: relative;
+    height: 150px;
+    width: 150px;
+    margin: 20px 250px;
+}
+h1{
+    margin: -150px 500px;
+    position: absolute;
+    color: white;
+}
+.inicio{
+    position: relative;
+    margin: 20px 150px;
+
+}
+a{
+    color: black;
+}
+.meia{
+    position: absolute;
+    margin: 10px 500px;
+    background-color:rgb(165, 165, 165);
+}
+h2{
+    color: black;
+    margin-left: 15px;
+
+}
+h3{
+    width: 620px;
+    margin-left: 30px;
+}
+p{
+    margin-left: 30px;
+    width: 500px;
+}
+h4{
+    margin-left: 30px;
+}
